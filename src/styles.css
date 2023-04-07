@@ -1,0 +1,13 @@
+.bg {
+  margin: 0;
+  padding: 0;
+  background-image: url("bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0.9;
+}
+
+#name {
+  color: #cd853f;
+  font-weight: bold;
+}
